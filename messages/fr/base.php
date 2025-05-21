@@ -34,6 +34,6 @@ return [
     'menu_logout'           => 'Déconnexion',
     'menu_motion_list'      => 'Motions',
     'menu_todo'             => 'A faire',
-    'menu_speech_list'      => 'Liste des intervenants',
-    'menu_votings'          => ''
+    'menu_speech_list'      => 'Test',
+    'menu_votings'          => 'Votants',
 ];
